@@ -2,6 +2,8 @@
 
 A centralized location for beginner DIYers to find projects.
 
+Find out about our [Beta](./beta.md) | Download the [Beta Zip](./README.md)
+
 # Why Do We Need Another DIY Website?
 
 On the internet, one can find websites like makezine.com or instructables.com that have a plethora of DIY projects to do. To search for projects on these websites, we search by project name - what do we do when we have a limited number of materials and no idea about what we can make with them?  
