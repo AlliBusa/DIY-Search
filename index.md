@@ -2,7 +2,7 @@
 
 A centralized location for beginner DIYers to find projects.
 
-Find out about our [Beta](./beta.md) | Download the [Beta Zip](./README.md)
+Find out about our [Beta](./beta.md) | Download the [Beta Zip](./latest.zip) 
 
 # Why Do We Need Another DIY Website?
 
