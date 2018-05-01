@@ -13,6 +13,7 @@ import datasearcher
 urls = (
   '/', 'index',
   '/results', 'results'
+  '/resources', 'resources'
 )
 
 render = web.template.render('/home/allison/dream5/templates/')
@@ -32,6 +33,10 @@ class results:
 
         data = datasearcher.run_search(data_list) #searches the database with the list
         return render.results(data)
+
+class resources:
+    def GET(self):
+        return render.resources()
 
 
 if __name__ == "__main__":
