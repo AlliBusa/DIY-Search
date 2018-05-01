@@ -1,11 +1,6 @@
 Project,Link,Category,Materials,Tools
-Drawbots,<a href='http://www.instructables.com/id/Drawbot-in-5-Minutes/'>DrawBot</a>,Electronics,"Color Markers
-Vibration motor
-Cup
-Coin cell 3V
-Coin cell holder
-Tape",
-Paper Circuits,<a href='https://makezine.com/projects/simple-paper-circuit/'>Paper Circuits</a>,Electronics,"Paper, conductive metal tape, LED, coin cell battery","scissors, permanent marker"
+Drawbots,<a href='http://www.instructables.com/id/Drawbot-in-5-Minutes/'>DrawBot</a>,Electronics,"Color Markers, Vibration motor, Cup, Coin cell 3V, Coin cell holder, Tape",
+Paper Circuits,<a href='https://makezine.com/projects/simple-paper-circuit/'>Paper Circuits</a>,Electronics,"Paper, conductive metal tape, LED, coin cell battery, ","scissors, permanent marker"
 Homopolar Motors,<a href='http://www.instructables.com/id/How-To-Make-A-HomoPolar-Motor/'>Motor</a>,Electronics,"neodymium magnet, copper wire, AA battery",wire cutters
 Wooden Spoon,<a href='http://www.instructables.com/id/DIY-Hand-carved-wooden-spoons/'>Spoons</a>,woodworking,wood,"carving knife, spoon gouge, sandpaper, pencil"
 Wooden Chopsticks,<a href='http://www.instructables.com/id/Scrap-Wood-Chopsticks-Recycling-scrap-hardwood/'>Chopsticks</a> ,woodworking,wood,"knife, sandpaper, pencil"
@@ -13,3 +8,11 @@ Mod-Podged Picture on Wood,<a href='https://www.homedit.com/mod-podge-photo-tran
 Book Safe,<a href='https://lifehacker.com/make-a-secret-compartment-book-for-hiding-valuables-1788560364'>Book Safe</a>,Crafts,"book, mod podge",x-acto knife
 Music LED Box,<a href='http://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/'>Music LED box</a>,Electronics,"12 V battery, 3.5 jack headphone cable, tip31 transistor, 5mm LEDs, Electrical Wire",soldering tool
 Theremin,<a href='http://yurisuzuki.com/archive/works/three-radio-theremin/'>Theremin</a>,Electronics,3 old radios,
+Piano Wire Ring,<a href='http://www.instructables.com/id/Ring-Out-of-Old-Piano-String/'>Piano Wire Ring</a>,Metalworking,"piano wire, sandpaper, clamps","soldering iron, hammer, nipper, fine-tip pliers"
+Flower Candles,<a href='http://www.instructables.com/id/Quick-and-Easy-Pressed-Flower-Candles/ '> Flower Candles</a>,Crafts,"candles, flowers, wax paper","iron, hair dryer"
+Beginner Electronics Projects,<a href='http://www.instructables.com/id/Ten-Breadboard-Projects-For-Beginners/'> Beginner Electronics Projects</a>,Electronics,"beginner electronics parts (resistor, LED, etc), breadboard",
+Intro to Leatherworking ,<a href='http://www.instructables.com/id/Introduction-to-Leatherworking/'>Leatherworking</a>,Leatherworking,leather,skiving knives
+Intro to Chainmail,<a href='http://www.instructables.com/id/Introduction-to-Chainmaille/'>Chainmail</a>,Chainmail,metal rings,Needle-nose pliers
+Intro to Weaving,<a href='http://www.instructables.com/id/Weaving-Without-a-Loom/'>Weaving</a>,Weaving,"5 embroidery threads, clothing pins, cardboard",scissors
+LED Cloud Light,<a href='http://www.instructables.com/id/LED-Glow-Cloud/'>Glow Light</a>,Crafts/ Electronics,"LED/ christmas lights, water bottle, string, pillow stuffing",
+Carrot Recorder,<a href='https://www.wikihow.com/Make-a-Carrot-Recorder'>Carrot Recorder</a>,Music Instruments,"large drill bit, carrot",
