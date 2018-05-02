@@ -2,9 +2,11 @@
 # -*- coding: utf-8 -*-
 
 import sys, os
+## if you used sudo apt-get install python-webpy , you can comment this out ##
 abspath = os.path.dirname("/home/allison/dream5/webpy-webpy-817c979/web")
 sys.path.append(abspath)
 os.chdir(abspath)
+#####
 import web
 from pprint import pprint
 import datasearcher
@@ -12,7 +14,7 @@ import datasearcher
 
 urls = (
   '/', 'index',
-  '/results', 'results'
+  '/results', 'results',
   '/resources', 'resources'
 )
 

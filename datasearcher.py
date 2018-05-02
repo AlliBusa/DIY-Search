@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import pandas as pd
-import matplotlib as plt
 import numpy as np
 import code
 from bs4 import BeautifulSoup as Soup
@@ -22,4 +21,4 @@ def run_search(*materials):
     df2 = df.loc[df['Materials'].str.contains(materials)]
     pd.set_option('display.max_colwidth', -1) #displays the whole text
     pd.set_option('display.encoding', 'utf-8') #changes the encoding
-    return df2.to_html(index=False, escape=False) 
+    return df2.to_html(index=False, escape=False)
